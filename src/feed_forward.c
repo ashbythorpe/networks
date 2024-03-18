@@ -1,4 +1,3 @@
-#include "mkl.h"
 #include "mkl_cblas.h"
 #include "mkl_vml_functions.h"
 #include "mnist.h"
